@@ -1,0 +1,12 @@
+.meimei-container {
+    width: calc(100vw - 20px);
+    height: calc(100vh - 20px);
+    display: flex;
+}
+
+.meimei{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
